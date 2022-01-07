@@ -1,0 +1,338 @@
+*{margin:0;
+    padding:0;
+}
+
+/* nav bar starting */
+.logo img{
+    height:83px;
+    width:200px;
+}
+.layer1{
+    height:88px;
+    background-color: hotpink;
+}
+
+.logo{
+    float:left;
+}
+
+.title{
+    float:left;
+    padding-top:15px ;
+}
+
+.nav{
+    float:left;
+    padding-left: 464px;
+    padding-top: 20px;
+}
+
+.nav a{
+    padding-left:100px;
+    text-decoration: none;
+    padding-top: 10px;
+    color:rgb(4, 54, 4);
+    font-size: 22px;
+}
+
+/* nav bar section ends */
+
+
+
+/* layer 2 section starts */
+
+
+.layer2 img{
+    width:100%;
+    height:656px;
+    position:absolute;
+}
+
+
+
+
+
+/* layer 2 section ends */
+
+
+/* layer 3 section starts */
+.layer3{ 
+    position:relative;
+    padding-top: 250px;
+    padding-left: 100px; 
+}
+
+.layer3 h3,h1,a{
+    padding-bottom: 10px;
+    color:white;
+
+}
+.layer3 h1{
+    font-size: 50px;
+    padding-bottom: 50px;
+ 
+}
+.layer3 a{
+ padding:20px;
+ text-decoration: none;
+ background-color:hotpink;
+
+}
+
+.layer3{
+    height:406px;
+    width:100%;
+ 
+}
+
+/* layer 4 start */
+
+.layer4{
+    height:500px;
+    
+}
+.image1 img{
+    height:300px;
+    width:268px;
+  
+}
+
+
+.image1{
+    padding-left:150px;
+    float:left;
+    padding-top:78px;
+}
+
+.image1 h2 {
+    text-align: center;
+}
+
+
+/* layer4 ends */
+
+/* layer5 starts */
+
+.layer5{
+    height:500px;
+    /* background-color: khaki; */
+}
+
+.layer5 img{
+    width:700px;
+    height:400px;
+  
+}
+.img{
+    padding-left: 100px;
+    padding-top:50px;
+    position:absolute;
+  
+
+}
+
+.text h1{
+    color:black;
+    position: relative;
+    padding-top:116px;
+    
+}
+.text{
+    margin-left: 900px;
+    margin-right: 30px;
+    padding-bottom:163px;
+}
+.text p{
+    padding-bottom: 50px;
+}
+
+.text a{
+    color:rgb(235, 227, 231);
+    padding:20px;
+    text-decoration: none;
+    background-color: hotpink;
+}
+
+
+/* layer5 ends */
+
+
+/* layer6 starts */
+
+.heading h1{
+    color:black!important;
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+
+
+
+.card{
+    padding-left: 31px!important;
+    border-radius: 5px;
+    color:black;
+  
+}
+
+.card img{
+    width:362px;
+    height:375px;
+
+}
+.card h2{
+    text-align: center;
+}
+
+.card-text{
+    padding-bottom: 30px;
+}
+.btn{
+    text-decoration: none;
+    padding:15px;
+    background-color: hotpink;
+    text-align: center!important;
+}
+.layer6{
+    
+    height: 770px;
+}
+
+/* LAYER6 ENDS */
+
+
+/* LAYER7 STARTS */
+
+
+.heading1 h2{
+    text-align: center;
+    font-size:40px;
+    padding-top: 20px;
+}
+
+.team-member1{
+    float:left;
+    padding-left: 85px;
+    padding-top: 70px;
+}
+.team-member1 img{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+}
+.layer7{
+    height:500px;
+    background-color:rgb(231, 228, 228);
+}
+
+
+/* layer 7 ends */
+
+
+/* layer8 starts */
+
+.image2 img{
+width:100%;
+height:640px;
+position: absolute;
+}
+
+
+/* LAYER8 ENDS */
+
+
+/* LAYER 9 STARTS */
+
+ .layer9{
+     height:640px;
+ }
+.heading3{
+    text-align: center;
+    position: relative;
+    padding-top: 200px;
+}
+
+.heading3 h1{
+    font-size:45px;
+    padding-bottom: 10px;
+}
+
+.heading3 p{
+    color:white;
+    font-size:30px;
+    margin-left:200px ;
+    margin-right: 200px;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+
+
+
+.heading3 a{
+    padding:20px;
+    background-color: hotpink;
+    margin-top: 30px;
+ 
+}
+
+/* footer section starts */
+
+.p-2{
+    margin-left:100px !important ;
+    margin-top: 30px!important;
+}
+
+.footer{
+    height:147px;
+    background-color: rgb(180, 177, 177);
+}
+
+
+/* footer section ends */
+
+
+
+/* MEDIA QURIES FOR 1300PX */
+
+@media(max-width:1315px){
+    .nav{
+     
+        padding-left: 300px;
+    }
+    .image1 img{
+        height:250px;
+        width:190px;
+      
+    }
+    .layer5 img{
+        width:600px;
+        height:364px;
+      
+    }
+    .img{
+        padding-left: 80px;
+     }
+    
+    .text h1{
+        color:black;
+        position: relative;
+        padding-top:80px;
+        
+    }
+    .text{
+        margin-left: 700px;
+       
+    }
+    .card img{
+        width:280px;
+        height:300px;
+    
+    }
+    .team-member1 img{
+        width: 116px !important;;
+        height:250px;
+        
+    }
+   
+    
+}

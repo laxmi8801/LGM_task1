@@ -1,0 +1,152 @@
+.container{
+   
+
+    padding-left: 400px;
+    position: relative;
+    padding-top: 6px;
+ text-align: center;
+    
+    
+}
+input[type="text"]{
+    height: 20px;
+    border-width: 1px;
+    border-color: rgb(145, 134, 134);
+    font-size: 20px;
+    
+    
+}
+
+input[type="password"]{
+    height: 20px;
+    border-width: 1px;
+    border-color: rgb(145, 134, 134);
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 10px;
+
+}
+
+input[type="submit"]{
+    height: 25px;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+input[type="submit"]{
+    color: rgba(192, 192, 192, 0.418);
+    cursor: pointer;
+
+}
+*{margin:0;
+    padding:0;
+}
+
+/* nav bar starting */
+.logo img{
+    height:83px;
+    width:200px;
+}
+.layer1{
+    height:88px;
+    background-color: hotpink;
+}
+
+.logo{
+    float:left;
+}
+
+.title{
+    float:left;
+    padding-top:15px ;
+}
+
+.nav{
+    float:left;
+    padding-left: 464px;
+    padding-top: 20px;
+}
+
+.nav a{
+    padding-left:100px;
+    text-decoration: none;
+    padding-top: 10px;
+    color:rgb(4, 54, 4);
+    font-size: 22px;
+}
+
+
+/* layer3 */
+.layer2 img{
+    position: absolute;
+    width:100%;
+    height:536px;
+}
+.layer3 a{
+    margin-top: 100px;
+    padding: 10px;
+    background-color:hotpink;
+    text-decoration: none;
+}
+.layer3{
+    text-align: center;
+    position: relative;
+    padding-top:123px;
+    opacity: 0.8;
+  
+}
+.layer3{
+    height:413px;
+}
+.layer3 h1{
+    font-size: 56px;
+}
+.layer3 h2{
+    font-size:30px;
+    padding-bottom: 70px;
+}
+.form{
+    padding:100px;
+}
+
+.layer3{
+   background-color:white;
+    margin-right: 400px;
+    margin-left:400px ;
+}
+
+.form-control{
+    padding-left:70px;
+    padding-right:70px ;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.footer{
+    padding-top: 40px;
+}
+
+.p-2{
+    margin-left:100px !important ;
+    margin-top: 30px!important;
+}
+
+.footer{
+    height:147px;
+    background-color:hotpink;
+}
+.d-grid a{
+    padding-left:70px;
+    padding-right:70px ;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color: hotpink!important;
+    text-decoration: none;
+    color:black;
+}
+
+
+
+.text1{
+    padding-bottom: 50px;
+}

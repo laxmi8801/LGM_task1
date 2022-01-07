@@ -1,0 +1,43 @@
+*{margin:0;
+    padding:0;
+}
+
+/* nav bar starting */
+.logo img{
+    height:83px;
+    width:200px;
+}
+.layer1{
+    height:88px;
+    background-color: hotpink;
+}
+
+.logo{
+    float:left;
+}
+
+.title{
+    float:left;
+    padding-top:15px ;
+}
+
+.nav{
+    float:left;
+    padding-left: 464px;
+    padding-top: 20px;
+}
+
+.nav a{
+    padding-left:100px;
+    text-decoration: none;
+    padding-top: 10px;
+    color:rgb(4, 54, 4);
+    font-size: 22px;
+}
+
+.btn{
+    text-decoration: none;
+    padding:15px;
+    background-color: hotpink;
+    text-align: center!important;
+}
